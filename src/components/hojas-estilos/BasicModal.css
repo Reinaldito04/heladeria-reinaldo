@@ -1,0 +1,46 @@
+.img-contenedor{
+   overflow: hidden;
+   justify-content: center;
+   align-items: center;
+   place-items: center;
+   margin: 0 auto;
+   display: flex;
+}
+.img{
+   width: 400px;
+   height: 100%;
+   overflow: hidden;
+   object-fit: cover;
+  border-radius: 20%;
+}
+.precio{
+   color: #53cf0a ;
+   font-size: 18px;
+   font-weight: bold;
+   font-style: italic;
+   
+}
+.btn-contenedor{
+   display: flex;
+   justify-content: center;
+   margin-top: 5px;
+}
+.boton-comprar{
+   
+   align-items: center;
+   justify-content: center;
+   margin: 0 auto;
+   background:transparent;
+   color:black;
+   border-radius: 25px;
+   padding:.5rem 1rem;
+   text-decoration: none!important;
+   text-align: center;
+   transition: all 0.2s;
+
+
+}
+.boton-comprar:hover{
+   padding: 0.6rem 1.2rem;
+   background-color: violet;
+}

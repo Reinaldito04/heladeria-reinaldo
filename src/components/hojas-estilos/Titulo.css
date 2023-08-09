@@ -1,0 +1,23 @@
+.contenedor-titulo{
+    background-image: url(../imagenes/fondo.jpg) !important;
+    object-fit: cover;
+    width: 120px;
+    background-repeat: no-repeat !important ;
+    height: 100px;
+    background-size: 100% 100% !important;
+    position: relative;
+  background: #2c3e50;
+  height: 25vh;
+  border-bottom-left-radius: 50% 38%;
+  border-bottom-right-radius: 50% 38%;
+  color:white;
+}
+.h3-titulo{
+  padding-top: 20px;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titulo-parrafo{
+  margin-top: -15px;
+  font-style: italic;
+}

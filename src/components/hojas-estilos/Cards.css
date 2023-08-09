@@ -1,0 +1,34 @@
+.card-container-css{
+    width: 18rem;
+    transition: 0.8s;
+}
+.card{
+    border-radius: 25px !important;
+}
+button{
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: center !important;
+    margin: 25%;
+}
+a{
+    text-align: center !important;
+    display: flex;
+    justify-content: center;
+    color:#03647C!important ;
+    font-size : large;
+    align-items: center;
+    margin-left: 50px;
+}
+.container{
+    margin-top: 10px;
+    transition: 0.8s;
+}
+.card-container-css:hover{
+    transform: translateY(-10px);
+   
+}
+.img-card{
+    border-radius: 50%;
+    overflow: hidden;
+}
